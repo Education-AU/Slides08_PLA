@@ -4,7 +4,7 @@ template: default
 
 ---
 
-### 2. SVD of the data matrix
+### 2. SVD of the data matrix 
 
 - Perform SVD directly on the centered data matrix, with data points as rows and features as columns:
   \[
