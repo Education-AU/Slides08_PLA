@@ -17,6 +17,9 @@ downloads:
   - file: assets/downloads/Master_SVD_exercises.ipynb
     label: Download Solution SVD Exercises notebook
     text: Python SVD exercises solutions.
+  - file: assets/downloads/stravin.jpg
+    label: Download Image for SVD
+    text: Image for SVD exercises.
 ---
 
 
