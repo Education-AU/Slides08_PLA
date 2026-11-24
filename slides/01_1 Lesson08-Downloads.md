@@ -20,6 +20,9 @@ downloads:
   - file: assets/downloads/stravin.jpg
     label: Download Image for SVD
     text: Image for SVD exercises.
+  - file: assets/downloads/bodyfat.csv
+    label: Download Bodyfat Data CSV
+    text: Bodyfat data for SVD exercises.
 ---
 
 
